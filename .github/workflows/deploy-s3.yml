@@ -20,4 +20,4 @@ jobs:
         
         run: | 
           ls -la 
-          aws s3 cp . s3://bkob-demo-2/ --recursive
+          aws s3 cp . s3://dinesh45-bucket/ --recursive
